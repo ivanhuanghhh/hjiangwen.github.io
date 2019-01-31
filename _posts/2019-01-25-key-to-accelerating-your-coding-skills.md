@@ -2,7 +2,6 @@
 layout: post
 title:  "[译] 提高编程能力的秘诀"
 date:   2019-01-25 20:31:19 +0800
-categories: jekyll update
 ---
 
 原文：[The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
